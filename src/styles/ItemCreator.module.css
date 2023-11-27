@@ -1,0 +1,12 @@
+.creator {
+	text-align: center;
+
+	input {
+		text-align: center;
+		height: 25px;
+		padding: 10px 20px;
+		border: none;
+		border-radius: 5px;
+		width: 300px;
+	}
+}

@@ -1,0 +1,9 @@
+services:
+  web:
+    image: node
+    entrypoint: npm start
+    working_dir: /app
+    ports:
+      - 3000:3000
+    volumes:
+      - .:/app

@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Qlist
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Qlist is a stylish and minimal to-do list application.
 
 ## Available Scripts
 
